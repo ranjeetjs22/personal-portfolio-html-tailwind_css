@@ -1,6 +1,7 @@
 # Portfolio Website - College Assignment
 
 **[🌐 My Portfolio](https://ranjeetjs22.github.io/personal-portfolio-html-tailwind_css/)**
+https://ranjeetjs22.github.io/personal-portfolio-html-tailwind_css/
 
 
 ## Overview
